@@ -51,6 +51,8 @@ public class Robot extends TimedRobot {
    * below with additional strings. If using the SendableChooser make sure to add them to the
    * chooser code above as well.
    */
+
+   /* I have no idea what I'm doing. */
   @Override
   public void autonomousInit() {
     m_autoSelected = m_chooser.getSelected();
